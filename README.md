@@ -4,7 +4,7 @@ Comparison between non-weighted KMeans and weighted KMeans
 
 ## Getting Started
 
-Source code is in the test_clustering.ipynb
+Source code is in the test_clustering.ipynb / test_clustering.py
 
 data_scatter.png , nw.png , wt.png : images
 
